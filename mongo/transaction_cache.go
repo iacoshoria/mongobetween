@@ -4,7 +4,7 @@ import (
 	b64 "encoding/base64"
 	"time"
 
-	"github.com/coinbase/mongobetween/lruttl"
+	"github.com/iacoshoria/mongobetween/lruttl"
 	"go.mongodb.org/mongo-driver/x/mongo/driver"
 )
 

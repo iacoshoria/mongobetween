@@ -8,7 +8,7 @@
 
 ### Installation
 ```
-go install github.com/coinbase/mongobetween
+go install github.com/iacoshoria/mongobetween
 ```
 
 ### Usage

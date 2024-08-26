@@ -8,8 +8,8 @@ import (
 	"testing"
 
 	"github.com/DataDog/datadog-go/statsd"
-	"github.com/coinbase/mongobetween/mongo"
-	"github.com/coinbase/mongobetween/proxy"
+	"github.com/iacoshoria/mongobetween/mongo"
+	"github.com/iacoshoria/mongobetween/proxy"
 	"github.com/stretchr/testify/assert"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
