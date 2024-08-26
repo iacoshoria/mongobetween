@@ -1,4 +1,4 @@
-module github.com/coinbase/mongobetween
+module github.com/iacoshoria/mongobetween
 
 go 1.18
 

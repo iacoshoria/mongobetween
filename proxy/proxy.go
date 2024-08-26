@@ -12,8 +12,8 @@ import (
 	"github.com/DataDog/datadog-go/statsd"
 	"go.uber.org/zap"
 
-	"github.com/coinbase/mongobetween/mongo"
-	"github.com/coinbase/mongobetween/util"
+	"github.com/iacoshoria/mongobetween/mongo"
+	"github.com/iacoshoria/mongobetween/util"
 )
 
 const restartSleep = 1 * time.Second
